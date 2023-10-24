@@ -1,0 +1,9 @@
+.book {
+  text-align: center;
+  height: 500px;
+  width: 900px;
+  background-color: pink;
+}
+.title {
+  margin-bottom: 100px;
+}
